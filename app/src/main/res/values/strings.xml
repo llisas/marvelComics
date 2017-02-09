@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JesusCuevasRodulfoWallaPopTest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Error-->
+    <string name="error_connection">Ups something is going wrong</string>
+    <string name="error_description">There is not a description availabla for this comic</string>
+
+    <!--Navigation_drawer-->
+    <string name="thanks_for_this">Hello mates!!\nThanks a lot for this opportunity</string>
+    <string name="thanks_for_email">jesuscuevasrodulfo"@"gmail.com</string>
+    <string name="thanks_for_phone">654 08 02 72</string>
+</resources>
